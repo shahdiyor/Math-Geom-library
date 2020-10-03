@@ -8,5 +8,5 @@ Class library(.NET Standart C#) containing basic mathematical and some geometric
    ● The area of a square - Func.AreaSquare(value of your side)  
    ● The area of a rectangle - Func.AreaRectangle(width,height)  
    ● Area of the parallelogram - Func.AreaParallelogram(base,height)  
-To connect the library, you must connect the <using Functions> namespace.  
+To connect the library, you must connect the using Functions namespace.  
   Written in C#
