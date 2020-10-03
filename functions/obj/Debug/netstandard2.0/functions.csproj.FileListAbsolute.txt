@@ -1,0 +1,18 @@
+C:\Users\shahdiyor\Desktop\WorldSkills\Программа\Модуль 1\functions\functions\bin\Debug\netstandard2.0\functions.deps.json
+C:\Users\shahdiyor\Desktop\WorldSkills\Программа\Модуль 1\functions\functions\bin\Debug\netstandard2.0\functions.dll
+C:\Users\shahdiyor\Desktop\WorldSkills\Программа\Модуль 1\functions\functions\bin\Debug\netstandard2.0\functions.pdb
+C:\Users\shahdiyor\Desktop\WorldSkills\Программа\Модуль 1\functions\functions\obj\Debug\netstandard2.0\functions.csprojAssemblyReference.cache
+C:\Users\shahdiyor\Desktop\WorldSkills\Программа\Модуль 1\functions\functions\obj\Debug\netstandard2.0\functions.csproj.CoreCompileInputs.cache
+C:\Users\shahdiyor\Desktop\WorldSkills\Программа\Модуль 1\functions\functions\obj\Debug\netstandard2.0\functions.AssemblyInfoInputs.cache
+C:\Users\shahdiyor\Desktop\WorldSkills\Программа\Модуль 1\functions\functions\obj\Debug\netstandard2.0\functions.AssemblyInfo.cs
+C:\Users\shahdiyor\Desktop\WorldSkills\Программа\Модуль 1\functions\functions\obj\Debug\netstandard2.0\functions.dll
+C:\Users\shahdiyor\Desktop\WorldSkills\Программа\Модуль 1\functions\functions\obj\Debug\netstandard2.0\functions.pdb
+C:\Users\shahdiyor\Desktop\WorldSkills\Программные решения для бизнеса\Модуль 1\functions\functions\obj\Debug\netstandard2.0\functions.csprojAssemblyReference.cache
+C:\Users\shahdiyor\Desktop\WorldSkills\Программные решения для бизнеса\Модуль 1\functions\functions\obj\Debug\netstandard2.0\functions.csproj.CoreCompileInputs.cache
+C:\Users\shahdiyor\Desktop\WorldSkills\Программные решения для бизнеса\Модуль 1\functions\functions\obj\Debug\netstandard2.0\functions.AssemblyInfoInputs.cache
+C:\Users\shahdiyor\Desktop\WorldSkills\Программные решения для бизнеса\Модуль 1\functions\functions\obj\Debug\netstandard2.0\functions.AssemblyInfo.cs
+C:\Users\shahdiyor\Desktop\WorldSkills\Программные решения для бизнеса\Модуль 1\functions\functions\obj\Debug\netstandard2.0\functions.dll
+C:\Users\shahdiyor\Desktop\WorldSkills\Программные решения для бизнеса\Модуль 1\functions\functions\obj\Debug\netstandard2.0\functions.pdb
+C:\Users\shahdiyor\Desktop\WorldSkills\Программные решения для бизнеса\Модуль 1\functions\functions\bin\Debug\netstandard2.0\functions.deps.json
+C:\Users\shahdiyor\Desktop\WorldSkills\Программные решения для бизнеса\Модуль 1\functions\functions\bin\Debug\netstandard2.0\functions.dll
+C:\Users\shahdiyor\Desktop\WorldSkills\Программные решения для бизнеса\Модуль 1\functions\functions\bin\Debug\netstandard2.0\functions.pdb

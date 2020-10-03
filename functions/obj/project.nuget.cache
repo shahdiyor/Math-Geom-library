@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "sfiMQkdBOK/jwF8Nniy4qcrvrQgW9tmwE/fERbSq7tVJY2J1QJOOokefaa+gQ84y4mI4xg3RJ4QtKTFYOI34ow==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\shahdiyor\\Desktop\\WorldSkills\\Программные решения для бизнеса\\Модуль 1\\functions\\functions\\functions.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\shahdiyor\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\shahdiyor\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
